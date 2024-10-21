@@ -4,7 +4,7 @@
 
 1.) Go to the github-pages page under Deployements
 2.) Open the active deployement (with the green check) which will redirect you to a new page
-3.) Add to the end of the URL v0.4/index.html
+3.) Add to the end of the URL v0.8/index.html
 
 // How to play
 
