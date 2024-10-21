@@ -2,8 +2,8 @@
 
 // How to access
 
-1.) Go to the github-pages page under Deployements\n
-2.) Open the active deployement (with the green check) which will redirect you to a new page
+1.) Go to the github-pages page under Deployements
+\n 2.) Open the active deployement (with the green check) which will redirect you to a new page
 3.) Add to the end of the URL v0.8/index.html
 
 // How to play
