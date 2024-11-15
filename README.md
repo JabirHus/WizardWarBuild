@@ -6,7 +6,7 @@
 
 2.) Open the active deployement (with the green check) which will redirect you to a new page
 
-3.) Add to the end of the URL v0.8/index.html
+3.) Add to the end of the URL v0.8/index.html (updaated v0.9)
 
 // How to play
 
